@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1s7G3x/SlyE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Downloads\\ECommerceCart\\ECommerceCart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
